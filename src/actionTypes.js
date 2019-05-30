@@ -1,0 +1,11 @@
+export const SET_WORD = 'SET_WORD';
+export const SELECT_LETTER = 'SELECT_LETTER';
+export const RESET_GAME = 'RESET_GAME';
+export const INCREMENT_GAME_COUNT = 'INCREMENT_GAME_COUNT';
+
+export default {
+  SET_WORD,
+  SELECT_LETTER,
+  RESET_GAME,
+  INCREMENT_GAME_COUNT,
+};
